@@ -1,0 +1,32 @@
+[27-Apr-2018 02:55:22 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[27-Apr-2018 03:08:16 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[10-Jul-2018 19:05:44 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[21-Jul-2018 04:20:36 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[21-Jul-2018 04:21:56 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[25-Jul-2018 06:45:32 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[25-Jul-2018 06:48:14 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[26-Jul-2018 08:05:35 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[26-Jul-2018 08:06:43 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[27-Jul-2018 03:55:22 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[11-Aug-2018 08:48:18 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[11-Aug-2018 08:49:53 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[22-Aug-2018 10:23:02 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[22-Aug-2018 10:24:16 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[23-Aug-2018 03:33:57 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[23-Aug-2018 07:09:01 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[04-Sep-2018 14:13:30 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[04-Sep-2018 14:14:52 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[11-Sep-2018 03:53:15 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[21-Sep-2018 03:40:09 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[10-Oct-2018 05:55:52 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[23-Oct-2018 12:30:17 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[26-Oct-2018 16:21:18 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[26-Oct-2018 16:24:17 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[14-Nov-2018 05:58:14 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/gaap/public_html/metsSite/payment/paypal.class.php on line 214
+[08-Feb-2020 09:03:25 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; paypal_class has a deprecated constructor in /home/mets1/public_html/payment/paypal.class.php on line 93
+[21-Feb-2020 05:44:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; paypal_class has a deprecated constructor in /home/mets1/public_html/payment/paypal.class.php on line 93
+[12-Mar-2020 07:01:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; paypal_class has a deprecated constructor in /home/mets1/public_html/payment/paypal.class.php on line 93
+[24-Mar-2020 07:08:07 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; paypal_class has a deprecated constructor in /home/mets1/public_html/payment/paypal.class.php on line 93
+[14-May-2020 08:56:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; paypal_class has a deprecated constructor in /home/mets1/public_html/payment/paypal.class.php on line 93
+[08-Jun-2020 15:35:31 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; paypal_class has a deprecated constructor in /home/mets1/public_html/payment/paypal.class.php on line 93
+[11-Jun-2020 05:28:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; paypal_class has a deprecated constructor in /home/mets1/public_html/payment/paypal.class.php on line 93

@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "ppcdl"
+AuthUserFile "/home/mets1/public_html/ppcdl/.htpasswd"
+require valid-user

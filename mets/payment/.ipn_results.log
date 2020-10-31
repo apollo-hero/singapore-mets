@@ -1,0 +1,733 @@
+[04/27/2018 2:55 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=0.01, protection_eligibility=Ineligible, address_status=confirmed, payer_id=EQ2T3K6DXZ23S, address_street=810B choa chu kang
+#05-531, payment_date=19:55:20 Apr 26, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=682810, first_name=YEE FUN, mc_fee=0.01, address_country_code=SG, address_name=YEE FUN TAN, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=A0ErMpkD.AsODS7DT9HpBttibXEKATFAUiOIFozk1JOv19nHdEj0p-Fq, payer_email=yeebola@yahoo.com.sg, txn_id=7NG48207UA988081E, payment_type=instant, last_name=TAN, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=student yeefun,tyeefun@gaapy.com-(PPCDL under MCC 11 - 13 May (Wk End)), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, receipt_id=3255-7287-5533-8029, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=a0f43a04906d5, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 658805525ea
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 74
+X-EdgeConnect-Origin-MEX-Latency: 635
+Date: Fri, 27 Apr 2018 02:55:27 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=r4lynQwu3DMmNvt_fgbc6J01XaeIgMYjwYWbbgeoVHasLplyCnBuUAZCcqBXtGeocgzmuGTbRJIVaVKpbadzuRBnN1ehcen7_iwQ6_RFwUTcyj6DcFGYGJTFm7VfSgmFYtZT0-N-NyMGklkqWk4rJrQHsD-11RYcCkg93mQUbvhXlDSX0qsvqQdsC7kPEpVKuGXx8hSD0VRURI1PhNEaNwWhYnjJhl5nwpwUsQrhFE8c5cQuG3xd5Oc9s3Sl4QavqcADRJEBMruCCyRltI0KoQsy5MOyJPfsEFK21Zlq1M82Ygp8ItxGGm4ExIm9gDvI_i-C9urvXQfZsuwneDxMirTat8CvBOtxIP8vLhRVvIBK2CVPLuRkFgoW9eYqzcNMAR6tpQ7MG0e2cGo_A4GarrDUv7Wbgi0Ok_31O-vD_HvYyu2NOanEHrl9D3K; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 24-Apr-2028 02:55:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 26-Apr-2020 02:55:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D529654362%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 27 Apr 2018 03:25:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Fri, 27-Apr-2018 03:25:27 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1524798327~id=c98b09ee16f88de5b39da6df3d099bd9; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[04/27/2018 3:08 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=0.10, protection_eligibility=Ineligible, address_status=confirmed, payer_id=EQ2T3K6DXZ23S, address_street=810B choa chu kang
+#05-531, payment_date=20:08:13 Apr 26, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=682810, first_name=YEE FUN, mc_fee=0.10, address_country_code=SG, address_name=YEE FUN TAN, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=A9urWvt4ctt2A1QY7EvA.VWDPpAcAKESZJzUsn8DwTnJw-nP4ybWwtpS, payer_email=yeebola@yahoo.com.sg, txn_id=5LC966920K609001N, payment_type=instant, last_name=TAN, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=working yeefun,tyeefun@gaapy.com-(PPCDL under MCC 11 - 13 May (Wk End)), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, receipt_id=0354-2531-9141-2599, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=65d16721f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 802d4aca61cad
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 67
+X-EdgeConnect-Origin-MEX-Latency: 566
+Date: Fri, 27 Apr 2018 03:08:20 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=KyLrB725Ii9JECgBNFEWCZyLlKy-jKFTWrkxr-igXOBsVqfjTvk8sYGzCz1wbKfqLR0N2O47acs6nKF00Ldpe-xD9y2-tHOAKf-Ckw-orZ0b_wlOwi2SsrXrpWOBEHLvp-KTBtRLkTWTCQ-_np1g-iE0Gd_ro2VwidkfG_hDa57hIsAm1RyxFAdjU1c4hWi7n_Tb1h8mJ7ylR7AqMlW2wnkMa0TilrzBUaFeWGKKvqS9vEsqkd9E3Cssmo6O-GJtiQD6raPMpDzZjBTgCZvNxh55Fj9V0mEDtJzuGlvoBiDrVO0EYduUJ5H_-AafDmoc3-Ra8tM1tbcy-eP84Wt9It3MU5mNnjMAlUBdIKkDDBbQDzmM53RAV1kqPpBP-VVOC94YBYFChDaALpBx5l-Yxg4v3WZsVCYuAANxYpiaeRlu8S4ZgymF7WIlnBi; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 24-Apr-2028 03:08:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 26-Apr-2020 03:08:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D613737050%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Fri, 27 Apr 2018 03:38:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Fri, 27-Apr-2018 03:38:20 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1524799100~id=c88e8b81954ebb6811c2ec6ed62ee0f6; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[07/10/2018 7:05 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=8J6A4LHQPTLU2, address_street=blk 181 edgefieldplains #16-240, payment_date=12:05:36 Jul 10, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=820181, first_name=loh, mc_fee=3.62, address_country_code=SG, address_name=loh nim kiang, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=ACrVLackCXKsJFINKb9V09xKjL2bAaTSZb5Vtu1UCjvGAOt9l2V4tGYi, payer_email=junhao911.loh@gmail.com, txn_id=8RW848566F7063549, payment_type=instant, last_name=nim kiang, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=junhao,junhao911.loh@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, receipt_id=0920-5948-8334-0860, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=5d977f7baf09, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 7994c0c5c4fad
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 71
+X-EdgeConnect-Origin-MEX-Latency: 588
+Date: Tue, 10 Jul 2018 19:05:45 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=zYqYxpSZeqF4CpEZZhKeyyVzG70eD18l8JZDLR1jRScvh24jYuz69-Io4e0_dIXNvVLTQHJA06qZuqyxyzAklr1SyY6XyXT4hhDjmbmiISV9E828NOVtqQ9b5eqVXR6JXPz3sZTGrIZZNHmzHotzTf8UW9L8AkFYgn8sl8Rtf8qLmPTNyEbNqqkDBoIZkyqQEYYZghJK3OZC56QH-Kts3tSpo9ua2t6Kc8MNY0L17WdVmiP78kux6_GWLYKuEfUbebX-TxdQ-Ws-i_f_yZzCNWFN1OLk54vat9BVpn3aXYgdHK8qCPECfxPDGwSfOJxtsiyVO26ZjPm9x1zK-ES8_D606MldizI67iZC4PVtmEqifwbgxMDSOpFe6SnVa77t2wac9WuqpdOvlPeLfBLoe8XWUVl88FMM-GTY-8wypleZjvWhQrMts7SA-KS; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 07-Jul-2028 19:05:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 09-Jul-2020 19:05:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2281915739%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Tue, 10 Jul 2018 19:35:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Tue, 10-Jul-2018 19:35:45 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1531250145~id=8de0c77acfd597c6928906ec344fb220; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[07/21/2018 4:20 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=YGXGAGALK2FQW, address_street=298A Compassvale St
+#03-176, payment_date=21:20:30 Jul 20, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=541298, first_name=Wei Ming, mc_fee=3.62, address_country_code=SG, address_name=Wei Ming  Lua, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=Singapore, quantity=1, verify_sign=AB.q8Bn2gVs5wITpqCHI.X8zM3HhAA.uh83ZoS83M3ofONseFIIF1GwP, payer_email=lua.weiming@gmail.com, txn_id=18J19891WA1542706, payment_type=instant, last_name=Lua, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Lua Wei Ming,gbr_mersi@hotmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=5d7aad38e93a7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 102acfcc54c34
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 80
+X-EdgeConnect-Origin-MEX-Latency: 599
+Date: Sat, 21 Jul 2018 04:20:38 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=1bP6PCWsP49tngJdMNH056Lu-xmQwgcapDp8PJnFImc6rsskhO8MWWnJg7uZC3J7oHblKPz7v3955sQpveUo3GF60Adm-TjR5dSpUn2-6BvOIdbamunI0OsrpPJIADIxpoXDtjqN_H4Ar44-c7EA7kFodFS_oYU8yXsOUXUxG340JLPujqWb_3K0LoHzCVCpyx786hhY4xGCBnm7E98KgUOuZlEujeL9hooeGVrrQVzKdZCFEWWKQCtQgUq8gUSoJJczLP5VUnV9jKf0Mhzmtosm2IrqU2-3gMVc7wxjhYNQDTlQkvkma2IHuVbybAAPZ1k-RQsokDG9afBdL7PYuX3IVIB89qdeCyhRroz9M-QeaK7uC_MiiEu7CXB6RMi6jIMK2yJ4uEblcpAi5lsSUJRfO0uLP5UIN_HC3y9-CZE4PtrMdFYkp35Bvs8; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 18-Jul-2028 04:20:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 20-Jul-2020 04:20:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2528399963%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Sat, 21 Jul 2018 04:50:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Sat, 21-Jul-2018 04:50:38 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1532147438~id=5b918fad94e917d6a0e8c7a37a7027d6; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[07/21/2018 4:21 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=YGXGAGALK2FQW, address_street=298A Compassvale St
+#03-176, payment_date=21:21:50 Jul 20, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=541298, first_name=Wei Ming, mc_fee=3.62, address_country_code=SG, address_name=Wei Ming  Lua, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=Singapore, quantity=1, verify_sign=ATb1fJWJCzS5lZZpKeYlAqJ.zMmDAe4dYzsrgkO.yh3VP2gtEoMMOya5, payer_email=lua.weiming@gmail.com, txn_id=93R45367S7151050A, payment_type=instant, last_name=Lua, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Lua Wei Ming,gbr_mersi@hotmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=4acea5462bdd8, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 3c4cdff3dfbe3
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 79
+X-EdgeConnect-Origin-MEX-Latency: 545
+Date: Sat, 21 Jul 2018 04:21:58 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=cSjqJd72VRr7Mz7S-v8NzgrKL7gx8U5UgQv5b2PeBtFXdqbtzuZN2fbuO0AXl5Vu25TUtyJSaVZdn5eWllEjcIthao_aYvxnYFECVW0dMI_6mZN8fZbcbcpFUk7oqPr_z1Q0weLUy0yi7YnkU9V6rVhT81i3SZlS0bKpMrLFygvO-XmOCTo0e8EZoLQ3TO1mhU5X_0YCbZwm7Xcz1BTHPkYjhiqta-89N7UqYpFgaqkigVyXusQgckhCrg8bTcSYAawBCBrwrGe4j4X7yyZCPCHWVR-PvogIZtmYH35WQ2GjzApK98RfGSMtbMXzsFEYuv08Gc5OlQmRG2YTx-B-2E-n3S4kAJ5CvfZYEe1Xrb1zVRo31rC-rnTJM-2MKqA8dZeccmuavx251WTEinPXanc8jLiChp5hSZyfP0vXHYj2M0tRHzq2Ox-49Ty; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 18-Jul-2028 04:21:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 20-Jul-2020 04:21:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3853800027%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sat, 21 Jul 2018 04:51:58 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Sat, 21-Jul-2018 04:51:58 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1532147518~id=6ae38ce25a42fbf275dcc037468b7775; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[07/25/2018 6:45 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=160.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=W99FRDB75UENU, address_street=12, Geylang Lor 14
+Wing Fong Mansions, 01-06, payment_date=23:45:27 Jul 24, 2018 PDT, payment_status=Pending, charset=gb2312, address_zip=398924, first_name=Abdullah Tawfiq, address_country_code=SG, address_name=Abdul Rahman Abdullah Tawfiq, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=AtKbJ.cWbyki2WNWgD3Ggb08SsSdA6HkwkYbEmpEgMGlLjkanlT6D0bL, payer_email=fiq.hope@gmail.com, txn_id=3SB54508AJ926283J, payment_type=instant, last_name=Abdul Rahman, address_state=, receiver_email=hilbert@mets1.sg, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, pending_reason=other, txn_type=web_accept, item_name=Abdullah Tawfiq Abdul Rahman,fiq.hope@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=6322af458f08e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: e08a99d0c3b36
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 77
+X-EdgeConnect-Origin-MEX-Latency: 517
+Date: Wed, 25 Jul 2018 06:45:35 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=vus56nq-94SWM4tNsuv1haFo_PBqWX-wzeJ8LFQ9UpVwavjTx0kbn5Z_SG7SSJQ0vve0yNmxnd89wRkrLzktMvztGNuWpZmDPubj-n2XbEB6e3-bH7KzuQ0XSZGtCXP7zuzqq-eO1pBXOJ18WeHjmD35e_6--kT-OMKFQOomlRP-oUL_L7FhkUcWvYYEHWe4yYPZabQplLQJbBlf-im-YMthjOo_9SqoYYcnwNozPDevefKfxmyoIynnS9cv4Sc4tGO3O8zP6sZKhWm5x3oUCthGbJMvyabcBkS-xZ93NOffpSSWBfyFrsZaDxrARmF4UAWHZ4XSTH9USs2RzEDW282n5K7pq946eK-8jWY7-cas23Z8MW_irgiL2Cw8ddzlOCv1uBSU6IsLr6I5KAY_UGDRC7g7rj4LZb3EaTk_fYqvRTvDrtxQXM9rb_e; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 22-Jul-2028 06:45:35 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 24-Jul-2020 06:45:35 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2384222299%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Wed, 25 Jul 2018 07:15:35 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Wed, 25-Jul-2018 07:15:35 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1532501735~id=2397f5d6a4d4a8fdd37e22ad222c154f; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[07/25/2018 6:48 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=160.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=W99FRDB75UENU, address_street=12, Geylang Lor 14
+Wing Fong Mansions, 01-06, payment_date=23:48:11 Jul 24, 2018 PDT, payment_status=Pending, charset=gb2312, address_zip=398924, first_name=Abdullah Tawfiq, address_country_code=SG, address_name=Abdul Rahman Abdullah Tawfiq, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=A2GgXjuoen8kUEqhKoGkIffev0l4AIlrMVIUQL69.yLT4.BBrPKQK6OU, payer_email=fiq.hope@gmail.com, txn_id=0XF52560JD546961F, payment_type=instant, last_name=Abdul Rahman, address_state=, receiver_email=hilbert@mets1.sg, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, pending_reason=other, txn_type=web_accept, item_name=Lim Wan Ting,limwanting1991@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=9088327ebe429, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: bb073feec0ccf
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 72
+X-EdgeConnect-Origin-MEX-Latency: 786
+Date: Wed, 25 Jul 2018 06:48:17 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ljj6bdEn9qNlb2W3Hp7SvU2zRYiF52TfP5_Gt1CjnS_HsMKS10riB5KvIS1YiHxjLrzqw07wxz0__mvYIE-ZQuqILB1zI4qAbVI6pwb6B7alz72E0IAEkg0fvtizPGVajUqeEYAUA-7G1leIDJypjr3By-CalsRJL_KZC2CXyca-5Gz49eYgtr46tGc0TU6zEL1tvzsYLlyvxO0lf6Gb22aotOpT8A7sDx0mVeNO6xpJKGsf52RvORLM_SBntSB4V1lBSfFjRLXGlO-xBZriedBZSzulwlNpn5_NYFAlkX9pLa9sNSEnjhJ0CHLZiTbuhhNZNjeOnYgxnOnUPm-PKryiZ2J3Nv8sga6UdfwqwTDIcD-zTbu0G1rmbjaTmSWXNoGgHDVJC_U3RDLMOKIvB63Ngsh_2kSYXOTz37CnIMLS3K6aONrXC327pBu; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 22-Jul-2028 06:48:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 24-Jul-2020 06:48:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D807229531%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Wed, 25 Jul 2018 07:18:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Wed, 25-Jul-2018 07:18:17 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1532501897~id=2cc539a627ab44b6117dac84c0d7c296; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[07/26/2018 8:05 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=160.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=W99FRDB75UENU, tax=0.00, address_street=12, Geylang Lor 14
+Wing Fong Mansions, 01-06, payment_date=23:45:27 Jul 24, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=398924, first_name=Abdullah Tawfiq, mc_fee=6.74, address_country_code=SG, address_name=Abdul Rahman Abdullah Tawfiq, notify_version=3.9, custom=, payer_status=unverified, address_country=Singapore, address_city=, quantity=1, verify_sign=A2rPUeAi6XNRB7mbOtZRM8kWYwi9AHpyXHLbcGc3tdK7Akc6yADZtjqJ, payer_email=fiq.hope@gmail.com, txn_id=3SB54508AJ926283J, payment_type=instant, last_name=Abdul Rahman, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Abdullah Tawfiq Abdul Rahman,fiq.hope@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=7a6507c353ef1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: c1a5b780a7cc9
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 75
+X-EdgeConnect-Origin-MEX-Latency: 504
+Date: Thu, 26 Jul 2018 08:05:39 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=DOU9FK6Mu6QpuirG8yr0wRW5JPzhOy-XMOPnJhrfECx0MbouiOr9K0PDhdZn5Z1DuT74X9p2988xq1JdQKyQXI_JRuPW3-cf0GlVCA6ObLXwZW-19LH0eArSQEmHvaHsCsAON93fzewAXpg8QAW-pyZgs2QyAsTVB5dSa8c2doUetowMoOW1Z36mKSwVXt-M3LygdnJyBNDCpn71SlhaGtlNT9DiMs9p74cdqsO-OJ1l3PxUjkCTkyPChX8Tr3Qi2h9qttzAm5z87Xj3kZcjnVh5EhavZidgz7YOQjVfMED7NhQQcqrBr1nPULy1S-SmccgomGPlrR6jf6QY83LnXiR8A8JxRq5gd2gsBQORuqpYp7TAGbjEmrRHGtoPDc7zVZBbeAvN2vsJK7wdSSb-TfIT8KLBstbra4vJQ-9Pbk_vY4L3yMAFwf7P2VW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 23-Jul-2028 08:05:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 25-Jul-2020 08:05:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3531626843%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Thu, 26 Jul 2018 08:35:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Thu, 26-Jul-2018 08:35:39 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1532592939~id=317eef7bd4577e6bacbb803df4fbd1c7; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[07/26/2018 8:06 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=160.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=W99FRDB75UENU, tax=0.00, address_street=12, Geylang Lor 14
+Wing Fong Mansions, 01-06, payment_date=23:48:11 Jul 24, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=398924, first_name=Abdullah Tawfiq, mc_fee=6.74, address_country_code=SG, address_name=Abdul Rahman Abdullah Tawfiq, notify_version=3.9, custom=, payer_status=unverified, address_country=Singapore, address_city=, quantity=1, verify_sign=AQb3RHJOj7ACPzZsElLTIMwI-7jcATcnzORydmDzhVtM.2wYNH-VPy2G, payer_email=fiq.hope@gmail.com, txn_id=0XF52560JD546961F, payment_type=instant, last_name=Abdul Rahman, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Lim Wan Ting,limwanting1991@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=52b66747617db, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 19c71f099d795
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 77
+X-EdgeConnect-Origin-MEX-Latency: 508
+Date: Thu, 26 Jul 2018 08:06:47 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=jw6MQMscvNOqgZxPUr7OKIB2dG57K2gczip9GeBgfWeHEd-Mpr2Zv33UOs79_46U7FOzd_hQayWk3BxbclIMbuId2Zmr8GmvJfKzlrbaVG4H-J7x4QBgSI0IpLndQT3OPXP6s2-J6urxn0NVGk_gXFHUoBHEJkiaY_1L3SgtIWrMrD2uRmrCv3xzJPrT5TDRHX3g9fuwlEt-99t_DY2bD7sD_urF98-j0KMibmzg22PwB6CDxj8zpnceC29mIIJo1AOhJPQbiBbJgaNI3a5B95tPxxXPxjv2ZDln5YZLYpUPGZuDZREdDo6GB75MwBHr-4A5hV5920-Dq5UrOTikuojToEvMRMB3Noi7c-ZkayklhTOg5ZI2vd2hfY2jnfbqME5hNgfcaHADIJ4zBj5OBbSFiInPgSLAA9g0voE2KHiTXQr5y-d_bRgb36C; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 23-Jul-2028 08:06:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 25-Jul-2020 08:06:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D377575771%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Thu, 26 Jul 2018 08:36:47 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-1.paypal.com; expires=Thu, 26-Jul-2018 08:36:47 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1532593007~id=cf00dc0b69944f263bbda7782a3fa270; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[07/27/2018 3:55 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=HJZWRTL87284Y, address_street=#09-16, 15D Balmoral Road
+Singapore, payment_date=20:55:14 Jul 26, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=259819, first_name=Yunfeng, mc_fee=3.62, address_country_code=SG, address_name=Yunfeng Liang, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=A-aazCG19LMx9YhcGGdZkmJmID99ANihsrvb3xHSVrIal-MGNqs3IywK, payer_email=briceliang@hotmail.com, txn_id=0FH704224G304101P, payment_type=instant, last_name=Liang, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Liang Yunfeng,briceliang@hotmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, receipt_id=5487-5957-9664-3526, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=dfc18c5db037a, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 45ebc5efdf0a5
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 60
+X-EdgeConnect-Origin-MEX-Latency: 784
+Date: Fri, 27 Jul 2018 03:55:24 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=0xsluzEI3jsWrd-I638-xucQpidVJTRcYaEKNTQ_qCIb-ur0L4jiUKupKIT6V0BLajf4nzxz_glg4K9I9A5iXekoGM3XTvll65z__kV8cdgXD7xmH_BIrmCVyxpBqWJu7v7_7IW9UJIEA-Ao5C9N0psz6nkCPYh2laJralGqfMgXFbMnbII2wtj2l2pzdVHat0EzLfPfdXSAJAc1GX7E6QuKDnllQzsFXfw5I0TZN-4-r01HqBQMexsAVvgK-0aJIBlCQAU3dfTrIuH_EESEKBzroqe1yJ7n7W_vzLxkeu1G591U5QnW62wfcPkvPUacZ8yu6rP-GmKqlBlinrnZcMf_yS8aMDbXeqx_aQDoFS84GYKa0BztuzSLY1I7iR2Nk1p_L-YU13X9r0SnM9YoPJhk9bpCK4Te-jd8_VW1kbPZUydvDB5k2oJjwqq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 24-Jul-2028 03:55:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 26-Jul-2020 03:55:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2878823003%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 27 Jul 2018 04:25:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Fri, 27-Jul-2018 04:25:24 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1532664324~id=a79669ca84704b579d8d527e4d6020df; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[08/11/2018 8:48 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=W99FRDB75UENU, address_street=12, Geylang Lor 14
+Wing Fong Mansions, 01-06, payment_date=01:48:12 Aug 11, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=398924, first_name=Abdullah Tawfiq, mc_fee=3.62, address_country_code=SG, address_name=Abdul Rahman Abdullah Tawfiq, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=A-KHAQ2-lvN-NnI6djBvLv2GzKx.A-8Vo9PhH7g07b8oHOxVngCAvpYV, payer_email=fiq.hope@gmail.com, txn_id=9M436349LD4194410, payment_type=instant, last_name=Abdul Rahman, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Abdullah Tawfiq,fiq.hope@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=139ddadfe538a, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 1098a842176d
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 64
+X-EdgeConnect-Origin-MEX-Latency: 750
+Date: Sat, 11 Aug 2018 08:48:21 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=cxyLmBHCxqnCKubKDxNeTldoYrNuSvMQkgvtqzn2VZl-WWRkEmnBTHLBLZVUVXAwcf2QacgBybF-yFV3avF8l9A0xBJGJ5B-c-pNoRKLIE1iYWnoGPgrp_m66ToTyNLO8ui_IxAkq5-DreXAd4bEQ_iusVY7M62PIKM-rNDw8JCwDHt5RSsyDaLUsY7cn_Q8v0Qjlns1GKKATPLvlIitUci1hVig3rySu5IPSX3Gr1KLdjRxqU4KEx0Bp7RnDoZWVcfD2tS2HxSldG4Qakw1nkMCJzUw7qiIkWMfgtK8Kct2YVzxMk5ha6kkQtN73P_OWFJR7DiOKhmNWhCjLTbLnOk1DKnzqdXH0-7jqWKObbREiRNcZXSdrmpxhFipkYwcysLahzUhK0iAhzI89mAcLrdo8urgzh4dtcB0GYX7ZSWh-azeZool9oBcp58; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 08-Aug-2028 08:48:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 10-Aug-2020 08:48:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3584192091%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sat, 11 Aug 2018 09:18:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Sat, 11-Aug-2018 09:18:21 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1533977901~id=d6e5d29b5dc90a555df29e1609c6459d; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[08/11/2018 8:49 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=W99FRDB75UENU, address_street=12, Geylang Lor 14
+Wing Fong Mansions, 01-06, payment_date=01:49:50 Aug 11, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=398924, first_name=Abdullah Tawfiq, mc_fee=3.62, address_country_code=SG, address_name=Abdul Rahman Abdullah Tawfiq, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=A.wIPJ1OLsNRobG-bsapaQgu2pzyAQ3Cfu9xQlvefUA1HvH8C6QDLcMo, payer_email=fiq.hope@gmail.com, txn_id=0VU9271144993780S, payment_type=instant, last_name=Abdul Rahman, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Lim Wan Ting,limwanting1991@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=95f381fa24a95, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 3654965446ffd
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 72
+X-EdgeConnect-Origin-MEX-Latency: 641
+Date: Sat, 11 Aug 2018 08:49:56 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=4ZmxovVWy0knGnSBM4Dw2B4b9BAexZwMVm4xD_XNShGjAo6i0c3w58ObspytRWEqCX5X5ztRiVTlaJS7QawbeXvDdEa0N0_TplVMM9rPNq-Q5y197aPSI6pXKKKODgnhsf2EgynwTzsyzmG0aH-nacDBSUBG56ZJlnT7vr84-NXg5QUbLT6l_XqdxFQfxgvCp7bSSV9F9z9KNQaIAC2GLYluVckcnnHMbdlxK0ZXBNbpfbMFmRx7BrI9L81Lo4bvJyQ2u35pUDqNG8tENCSWsPVOGW1B97yYNgD-98-YZZU9000uUdPuTaSmh0KtHZfBL4i1LztUYAYrl3mWrwUZYx1SSauWJbuWLoujmWB4uK7N0kC76rP5J4lBiKmFDo0KKVLZw6ycG1bR48Y7sR3WVptwEg9gi0avu0zh-_nuRpBpH0zbj4och9A2sG4; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 08-Aug-2028 08:49:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 10-Aug-2020 08:49:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D883125851%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Sat, 11 Aug 2018 09:19:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Sat, 11-Aug-2018 09:19:56 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1533977996~id=8ba3990ab02f2a4bdf60640ab6b1f945; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[08/22/2018 10:23 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=RFPG6LQUK5X4L, address_street=Blk 507 Bedok North Ave 3 #12-345, payment_date=03:22:59 Aug 22, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=460507, first_name=Wan Ting, mc_fee=3.62, address_country_code=SG, address_name=Lim Wan Ting, notify_version=3.9, custom=, payer_status=verified, business=hilbert@mets1.sg, address_country=Singapore, address_city=Singapore, quantity=1, verify_sign=Aies60T7uZ6zRhqgPpb-EjG60EO5AjCzZSj8F3YHidrXx4A6GjOE0A7l, payer_email=limwanting1991@gmail.com, txn_id=5H637573BG404762M, payment_type=instant, last_name=Lim, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Lim Wan Ting,limwanting1991@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=bd9b5fef60c76, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 14f4783b7b7a4
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 90
+X-EdgeConnect-Origin-MEX-Latency: 486
+Date: Wed, 22 Aug 2018 10:23:06 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=FOQM7eEB03TY0dZ8q0rekHzs5XjZ3-IE13licwbyb9TAVyrfClUBZ1v3Ll5KHoJGdfLMPb1s_wFsC566vFERRYWxzpkcrqpkHeHMLlTtZY7fXw1gHFIfkSQL3Xz7lqZQzsC5t16HxkKdUS2uWqqT9W7SVMkj660_TXViOXhH8zOL1vQx2ZYV-9GAH-ilLsSEBkDzD44zAR-GzuwAL9IgsKzHp-vYZWnAaUmUHZnSB3WIujtw7_b7GUpqw7h3ZDUE1hXNFGeTDhUhNWAVcqQDgifkV6SuII6TqwosaWCQoLKvm6Wri-55NoGJ_1dwMCs3NczYMPpynmf8s6VVgX8CM8uhyA1zIwFYnI8k-KzrMWlQUw_sMl8BTCy7MnGIeu6iuJxuCzNeSnDod1v-zjfa62AQoe8cGBrmE1uWciSuIR9BZxjmiQlhW0Kwqsm; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 19-Aug-2028 10:23:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 21-Aug-2020 10:23:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2319023451%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Wed, 22 Aug 2018 10:53:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Wed, 22-Aug-2018 10:53:06 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1534933986~id=b78dcd95001d5bb5c71538a5cb58a0ae; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[08/22/2018 10:24 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=RFPG6LQUK5X4L, address_street=Blk 507 Bedok North Ave 3 #12-345, payment_date=03:24:13 Aug 22, 2018 PDT, payment_status=Pending, charset=gb2312, address_zip=460507, first_name=Wan Ting, address_country_code=SG, address_name=Lim Wan Ting, notify_version=3.9, custom=, payer_status=verified, business=hilbert@mets1.sg, address_country=Singapore, address_city=Singapore, quantity=1, verify_sign=APO-TpFhmpoV5EzWsHxN9Lu3AAy4AvURJGbrxxaIY0N3V7SBSrYvIGvG, payer_email=limwanting1991@gmail.com, txn_id=27060933WV956682U, payment_type=instant, last_name=Lim, address_state=, receiver_email=hilbert@mets1.sg, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, pending_reason=other, txn_type=web_accept, item_name=Abdullah Tawfiq Abdul Rahman,fiq.hope@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=39e87207bfb2f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: 5a87b430c3c7e
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 88
+X-EdgeConnect-Origin-MEX-Latency: 524
+Date: Wed, 22 Aug 2018 10:24:20 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=cs1U9tU_tc2KvybBQzO17ull5G59KEa5apCPgPDxWMYKe2MAqCEZacgKyzGY0_6LcyZvmemSPz8feRmp1wSx-A5P9LUQzil9NiKOS9IL3wIBp1db2S_7CTPGAfis36YLgj0L17IeSVCCAk3kcsb7cYKEPnkvpdunlEPwuXx0OPrinWPyEBjRm1qXUroXynQ-SKBQVy8pogEmbwB21bE4AunSopdwPrw8qwIuznyk_zFXZ5WIbJxcFM4aREuWdU8ro2MefvJDaK3RPFLnsnxOhNhVV21Zee1pQxMmWBvCvM3VcTEp6l9-s-SJpfbhR-Ph7PMOds4RCFE4L4fC4-d4djPhSdrXqXSokhsOl-EAZDQE0F7jAdWBcMMpYFBLzHfeocU_cZ1-AOFyVjOi_Zu7XaF2FLhufxUsFioOTlSlI3xET4eKSWtWLbUtCfG; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 19-Aug-2028 10:24:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 21-Aug-2020 10:24:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3543760219%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Wed, 22 Aug 2018 10:54:20 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Wed, 22-Aug-2018 10:54:20 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1534934060~id=cf7f35eb29175b0ce2c1530484c58493; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[08/23/2018 3:33 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=RFPG6LQUK5X4L, tax=0.00, address_street=Blk 507 Bedok North Ave 3 #12-345, payment_date=03:24:13 Aug 22, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=460507, first_name=Wan Ting, mc_fee=3.62, address_country_code=SG, address_name=Lim Wan Ting, notify_version=3.9, custom=, payer_status=verified, address_country=Singapore, address_city=Singapore, quantity=1, verify_sign=Ap127LGRIoFac99viROGTAQRIG8OAfLGvWtGm4TN4ibNjzCIeJmCNuos, payer_email=limwanting1991@gmail.com, txn_id=27060933WV956682U, payment_type=instant, last_name=Lim, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Abdullah Tawfiq Abdul Rahman,fiq.hope@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=, shipping=0.00, ipn_track_id=40d0d43762a1e, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg11.slc
+Paypal-Debug-Id: ea8bd52beedb0
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 74
+X-EdgeConnect-Origin-MEX-Latency: 563
+Date: Thu, 23 Aug 2018 03:34:00 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=GvfD7t9nLuReAQfvR0cIdtk2reFaImD0X1ASFrs1KDVJFIgXEPT1geb5TIBQxaXt4TYNvMUfl6WtVfpTn9Ej6u_ctO672ZdpLJEQlfzo4QRBxfimzUBnKGiIjKss6HG1GH0ym5gAN4ABk2T6bjR3VHiR579iD1AEwWsrtYjTB78un26FP8ejkKT_sTJfM9cIDn75Y19p7I-L3I6MM7XkB5VC1aFlYkpZyknpuU9H4aVnXxKNE6F047PFjOdYz1tY4iXDhMQk36_1EdIMRL5Dnrrke6jaPS1VyArQ1GQHJyyz8PXVeTR2Wv5K8zssNiJ5IJYNDslUeKjRSAB6UXt9DEpNE9mI8Po5_25Z0DGZU-g1Ru_kQ58GliAmvs-Qv2DZ7Ou5sOslrNGUkLzcrG-ZozvhXfchH3f1p3B7R6r6QDGeO6iitPEymIVZoZO; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 20-Aug-2028 03:34:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 22-Aug-2020 03:34:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D657161819%26HTTP_X_PP_AZ_LOCATOR%3Ddcg11.slc; Expires=Thu, 23 Aug 2018 04:04:00 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Thu, 23-Aug-2018 04:04:00 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1534995840~id=50f1e850283b3fc5cf3cdaefe9db1373; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[08/23/2018 7:09 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=HDYE4NWBHWGFN, address_street=Blk 658 Jalan Tenaga #06-156, payment_date=00:08:57 Aug 23, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=410658, first_name=Jeremy, mc_fee=3.62, address_country_code=SG, address_name=Jeremy Loh, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=AXiyeESnu4A5Ja04iKuasce67-1VAieVCkQPWkBAGb5AD4ORUV4IjXr1, payer_email=jeremyloh@live.com.sg, txn_id=9NM17327LT2549601, payment_type=instant, last_name=Loh, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Jeremy Loh Yin Jun,jeremyloh@live.com.sg-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, receipt_id=1595-3953-5404-3344, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=7628d1b33308f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: c178932a93f32
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 76
+X-EdgeConnect-Origin-MEX-Latency: 569
+Date: Thu, 23 Aug 2018 07:09:05 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=6MeKKIMMKnPO6XjYHlwR4LQJmcqpwulPGU3_5rDJFI9wzuzspobxxyBJPRgSZFzM3K-UPJqo8Hn8iEdC2IBgc9dhigRpMULv1cb60L8z1L55valqoxaC4j1KtiExL7A6e9OfsW37ZwGFf90pa0X1zZGa7cjkeCQsuYykqY9-AkWyxU5SeNlTSoIaSBuoMivujruiwhfp8589Diqps6r2A9V3iDsvrjn83AMxpSnkmXPnY0yIsMC6heDTEQqU9NkWIpSVFFulsTBk-AJxGC-bQe5bODuiEgG1Ss-J-CakNdQaKVEJaGVjLhH8wx-2bLK_52Bty10-MmD0bNucGM3kIOU5jBtOIAIdnmFygmzy9Qa2U9eH9i0UptxdG2uB6jvQWhYYsze2reJiHYCtDHcBLszuXLXZMHGdTAS2QMpCsRThqnIThNdMo4MOGgq; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sun, 20-Aug-2028 07:09:04 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 22-Aug-2020 07:09:04 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2422046299%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Thu, 23 Aug 2018 07:39:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Thu, 23-Aug-2018 07:39:05 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1535008745~id=781d92dd0aa22bab5e6d227b00a1208a; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[09/04/2018 2:13 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=Q38MEJW8ZUQB2, address_street=Blk 619, Yishun Ring Rd
+#08-3224, payment_date=07:13:24 Sep 04, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=760619, first_name=Hui Min, mc_fee=3.62, address_country_code=SG, address_name=Lee Hui Min, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=Singapore, quantity=1, verify_sign=AYPDzwYKSRU23ntm7tNr6Rfhtt1wA0dgbtKUBiHzXAn1wS3t-vEDxJEE, payer_email=leehuimin@hotmail.com, txn_id=2SM24707SF695254U, payment_type=instant, last_name=Lee, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Lee Hui Min,leehuimin@hotmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=6d2fb07bf31f2, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 24a30c3fc6333
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-b-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 76
+X-EdgeConnect-Origin-MEX-Latency: 545
+Date: Tue, 04 Sep 2018 14:13:34 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=pTSbGuGQmxfOA5LMtJKMLmCk3m_49nlIV8Bo5ytyD5lnDubK6qFXoYmBBykgQ2ENiX3wUU_4RnNE3sF4Drf-9NWWQTf4kNwbZPid9Pl2P_tkjCeIqr-57H1kvc-TRhSzVqMJ3L17iHkbSlesySBw0SZ530orLQTYjf_dCB3xaQbP3rBBF2tjO4KKvcuBDQty9ALymVGOV9kvTDDm9jm8j96APul1ZH1cCsZwAvnS9j35cGAUkOsgNDJLceLq0S_yZctxk_rXgKSRz-7rpkI5h6syf_IpE3BM5BIE_AmSpQGS2DAo_IIIK9ldARhSZ4omoIIqEm1s2b3jFXCphr2u0CpGlCz1t4yc2Ubtg6Q1DaI4-0U2NmGiNqTYJw52LObzddgr0htt8Us0bPqvc9EAfS0JwCS1n0h6hslPQVFVqRxOaUXb3JwRXPX8AJK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 01-Sep-2028 14:13:34 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 03-Sep-2020 14:13:34 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE6.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D227774043%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Tue, 04 Sep 2018 14:43:34 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=slc-b-origin-www-2.paypal.com; expires=Tue, 04-Sep-2018 14:43:34 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1536071014~id=99a4478191ee5270f5defaa915acc6cb; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[09/04/2018 2:14 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=Q38MEJW8ZUQB2, address_street=Blk 619, Yishun Ring Rd
+#08-3224, payment_date=07:14:47 Sep 04, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=760619, first_name=Hui Min, mc_fee=3.62, address_country_code=SG, address_name=Lee Hui Min, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=Singapore, quantity=1, verify_sign=AK06fdWTRN7ErljWPSnuBWJAACoaA7.x-s1CrMR3RPaIn0Zv1kHh01WW, payer_email=leehuimin@hotmail.com, txn_id=4MR45916MR292804K, payment_type=instant, last_name=Lee, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Lee Hui Min,leehuimin@hotmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=4484be591888c, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: ca1daef673c1f
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+X-EdgeConnect-MidMile-RTT: 74
+X-EdgeConnect-Origin-MEX-Latency: 470
+Date: Tue, 04 Sep 2018 14:14:56 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=gaIwEpjD9SthMcKIfNs-l4v7XlYeWpouJ0IkEooysMtKljrPOeRw275L-f-_F1VWlTwaQAHYusnBVRcaX7nI6wg5Yjvcq-sc3hpHKmw6CunViHd5kk6RP9_EUJntEO4E8oVxN4xSDHeGIFD2GQMJzVPaXx_1p5Ec0OC3yIhn3zgTcpTcJOQp8RofIOEXTWZlzPl1nS2CLCzOsRDXHHCujV9V92Eoy5KaMNcn2hzoJxZ4aWXT3YDp7pPOtiwxVQTtsgiPBq1ECFJL5F3ydOPoxemqSOYzr-DAfI-a1iSaaJ1TnDLbkOfnYiw4D2d9WVp35oQIy2X1tc0IoMSxSEV1QUlQpSz8hykx4lzQASusvpQfBJmv98ZwWODej4al74P1Vyua3nu10XaBCErW4YS986YZYrtqmDTifBm2UoRQ6oph7fN8lF0Qcuj-3Be; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 01-Sep-2028 14:14:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 03-Sep-2020 14:14:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1620282971%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Tue, 04 Sep 2018 14:44:56 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Tue, 04-Sep-2018 14:44:56 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1536071096~id=2c4f8eb31a3a30c1f3aa9f1ec702df78; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[09/11/2018 3:53 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=80.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=RFPG6LQUK5X4L, address_street=Blk 507 Bedok North Ave 3 #12-345, payment_date=20:53:10 Sep 10, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=460507, first_name=Wan Ting, mc_fee=3.62, address_country_code=SG, address_name=Lim Wan Ting, notify_version=3.9, custom=, payer_status=verified, business=hilbert@mets1.sg, address_country=Singapore, address_city=Singapore, quantity=1, verify_sign=A8OPM.AiaihrgdANJrf8nX.DQ-.PAqLCKK1C.iiBgNGQ92QASj5j-145, payer_email=limwanting1991@gmail.com, txn_id=20M819806C651772H, payment_type=instant, last_name=Lim, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Lim Wan Ting,limwanting1991@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=a32fda548198a, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: cf3c90b362193
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 63
+X-EdgeConnect-Origin-MEX-Latency: 718
+Date: Tue, 11 Sep 2018 03:53:18 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=dn8pLin6pZEu3KRk68NJY4FLgsVxr9qbJk1AzP_4fsgmSfLjw3KAPbC5iCctdKapxCaQpIhmzpdglQBIZPuaP_vLgGGPUtDARt2KZu_BeOScNEIwIGt7CfyYWD2Y_pJulnimPd7gFH2HsbCm7yP2ziDXsJVZ6B7-6t18gcTzhad0x3nvGBvFlbXTNFEd0gR-W9BtPhX3ySqbcDb2a_ZCDCCnaykaN6Pk5lXTOZEu7xStiWaeL9akG3CaOMr3NihuOxriof0oYoZaptG1SiGqcISc-6Kn8fAno6xp2gpkjxZrnpTg3SZ1UAhUD-Bfh_FsLEsGdBw2UF4jjkaIUrk4hks_F1EMfLmBs4fPUfyg6ry0XtOrQoW13c_-4gPwH50p7xtMjJSmhLO_-CdqVoRb4-riY81JOHcgs5vfYsXNGn29dJcdd1cImqT32sW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 08-Sep-2028 03:53:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 10-Sep-2020 03:53:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D758945627%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Tue, 11 Sep 2018 04:23:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Tue, 11-Sep-2018 04:23:18 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1536638598~id=7c9dab683c14777d562489f58744fe1c; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[09/21/2018 3:40 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=200.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=ABG83Y7P84SLS, address_street=Blk 387 Yishun Ring Road
+#04-1655, payment_date=20:40:04 Sep 20, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=760387, first_name=khairul a, mc_fee=8.30, address_country_code=SG, address_name=khairul a sahari, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=A3M.37BdxOSvQr3kdteUnAWhET-RAHGq9ZXMzqtUHBIYDN5ZqOwqIate, payer_email=World_damnation@live.com, txn_id=3JP97447J57875616, payment_type=instant, last_name=sahari, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Khairul Anwar Sahari,World_damnation@live.com-(Other Marinas), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, receipt_id=4761-9846-9776-4013, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=922074a3d6cd, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: db05fdc5c7a1b
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+X-EdgeConnect-MidMile-RTT: 63
+X-EdgeConnect-Origin-MEX-Latency: 1229
+Date: Fri, 21 Sep 2018 03:40:12 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=RHCvHLmyre2xW-KyiaKRVZKWc_P5C8bORj2q8HqpNi7pHCUu_dylUelW6selHisvuwKq5SoXvyVO44AOrUV6axfKLju6OMcaHUJnhVswPEP6XUVkFX9mYsP46gnBaMGy80IikaK4S0lhPZFwi11UqVMh9JA_9oNjGhYZsW0dBJ2HLMJ6TuPHvVz534uNA5cti_F7VTPzn6gFk7bBt06TG0I30PUBGLNL87-zx6z5Sc2vwvq_Rou-yzRzFkeD9-f67vPxisFMWU4-s7W3ZkdABvyzX4kJRcy3est-K5Kh2bPzhgGEzfUKF0inYOAH2VMyyRS52e_tyOynp8OE7-vonAeBUNRUm-COn8vN63G77eJdzEHQggXS-F5syfk81x6wLk0etjfKDJ9N0JkDyVxiQgGhk2_bAFt4l8QtzvLoGyECP_6K9WE5IRzd07S; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 18-Sep-2028 03:40:12 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 20-Sep-2020 03:40:12 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D459842651%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 21 Sep 2018 04:10:12 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Fri, 21-Sep-2018 04:10:12 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1537501812~id=2fbc80417d8b22a222c30a298fbe2b73; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[10/10/2018 5:55 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=400.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=AP9QKW3V98ANC, address_street=Blk 672d Edgefield Plains
+05-579, payment_date=22:55:48 Oct 09, 2018 PDT, payment_status=Pending, charset=gb2312, address_zip=824672, first_name=elisabetta, address_country_code=SG, address_name=elisabetta pregarz, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=A1tm7xME1JZF-jReTBm3B41CLqLVANDzT4sY0eEtXp-OQvlCiz3nJ7x1, payer_email=hairule@gmail.com, txn_id=4FY22354WV221464U, payment_type=instant, last_name=pregarz, address_state=, receiver_email=hilbert@mets1.sg, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, pending_reason=other, txn_type=web_accept, item_name=Hairulnizam Bin Abdul Rahman,hairule@gmail.com-(PPCDL under MCC 22 - 24 Oct (Week Days)), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, receipt_id=1456-6220-1697-1903, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=d1570e80ca334, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: f73be1307b5cf
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+Date: Wed, 10 Oct 2018 05:55:54 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=z8iFZuzXqCzfCsDw3N3RY9WVLFmENHFNRiXLBJBSrGQEv242rY5TcTZpyfSD4OfzHHvn6uBA9iEjot0DDUbCGA_4TgkAVgiOS-QluosBIhFygZqG2jVyMzENIac23jwcVCGNdmw7wSXQFMkYP4A8BWaCa0SJqjdZu0Pp9KAlnh09X5O9-nvhXS8xdDsqzrjLFwIaLYuPZ9Asg1OsR5u5FZ2vXID2UXv4-vtkZPvXorvhOIGBeJtDvS99lXmjDc8CiJYFDm7lP6JjP8egkFP1e_gBmVeTnAvSCRssFkS58xHlMx-I-VvqpSLj3ssdXOBZHsu_FVJ6XXblLQIRrNgeBSgqLqgdYBBax7AWjCgzdb8gcKgcRq7sgRTvdzIxIajL6CDkNkYnBlb1RHTrAxqjkefzFPSJFx85P1xgzL-uIPZKfMS7Loyst4Fd6VK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 07-Oct-2028 05:55:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 09-Oct-2020 05:55:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1788132699%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Wed, 10 Oct 2018 06:25:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Wed, 10-Oct-2018 06:25:54 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1539151554~id=169d374e06a74b68da383be87cc91eec; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[10/23/2018 12:30 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=160.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=H7KQKR5WQXHXQ, address_street=Blk 274C, 08-35 Jurong west st 25, payment_date=05:30:12 Oct 23, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=643274, first_name=Seok, mc_fee=6.74, address_country_code=SG, address_name=Seokting Ong, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=Singapore, quantity=1, verify_sign=AWdulXBD6c--lklpuoFxOcGoPGp3AtWGQ6Bb3Vv5iPcP7gFH.OmOJaR6, payer_email=seokting79@gmail.com, txn_id=38L89753B27112536, payment_type=instant, last_name=Ting Ong, address_state=N/A, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=ong seok ting,seokting79@gmail.com-(MCC/RSYC), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=515b345ad8bad, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: 5d13380bebb3e
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-1.paypal.com
+Date: Tue, 23 Oct 2018 12:30:21 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=gbAv6kPRLuqQT7p55be1UIQk65zx__eimgyIMQjYvjCJQRjL1MN2gERmhtWEKImItn4wTpn01oXhzM9uji6AkdAv9E3QU0OFua8tQRQ3zkhZ4p58j2YaMLpc8Uz7BCGqLHRY6fL7eFceexkXfyvfeclg07ezBe3NKOZ9wS4jfAY2EU3VFZcQ7KdA00mNCGAXjIUIBQZqgxEQrV-GiBlKLxlQstCoNqKAw2W8L3eofBEDtttpLyLJuJIkFNpIyCUV0RwLQmnXDgUODMpqKjAY581Pjg3VwGJCKM5fso6UY5FB6MSOtS-lgwfL3_oBARZ5BjX_vTBQTmJ-fuchVQOcJGEpA605UdOJ8-vtP-q3hKLaueOo2c1q9mQPYLrqEZb2cYb2tA-8hUcHFEr6hnGB8ddQbfiCelUOakiOqGUxQbJ9ExAZNbBCwjJbc_a; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 20-Oct-2028 12:30:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 22-Oct-2020 12:30:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1544867675%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Tue, 23 Oct 2018 13:00:21 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-1.paypal.com; expires=Tue, 23-Oct-2018 13:00:21 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1540298421~id=bdd27eaf830ae07af10027504491f6c7; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[10/26/2018 4:21 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=400.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=JXYD7C9C8P9BG, address_street=651 Pasir Ris Drive 10 #11-60
+Pasir Ris, payment_date=09:21:15 Oct 26, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=510651, first_name=Hidayat, mc_fee=16.10, address_country_code=SG, address_name=Hidayat Hamzah, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=AvjHkC0xWBmfCrQxhHX1N-9ywhM4AU-TVn-xoZseOHemhOWbp0qLUmOG, payer_email=harlequinnmc@gmail.com, txn_id=9YR359289B982405R, payment_type=instant, last_name=Hamzah, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Mohamed Helmi Bin Sabari,harlequinnmc@gmail.com-(PPCDL under MCC 26 - 28 Nov (Week Days)), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, receipt_id=0908-2039-2960-7680, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=e996c1329644f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: ca07a64b93427
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-2.paypal.com
+Date: Fri, 26 Oct 2018 16:21:23 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=hMLlAn91VDdQTz78vIdFArHGQSrvQwElJvYJxq-anNPVnkzVtHpcsKzaLrayiZJybt7bf_JzzWKIXlz4Bwm3saLk-VxpelLqSL4YFyDs2YhRADSm2HSOUAPL658ye7m2NX8BnfFXxlR8MdIAXWzmA_suNclU-sKaGt8SjuKi4dCJELmnhBfYAOrfQbPzTuqaf3RO7Poe7Z3KLSrRde_id_vCFnenTyU8063KX5BkSoI-pX9K2WQN1d2fZIO0YSARGPEnwMXpWis8A6aDanQSotaI7PBENPA3EKbH80fKOEw7VeKgLpfrOhzEspd3d4h9PpDQP2zJvnAuZqtviFIUZMoVSOTfSfkCxR9n889UgELF6zFGFBS3OimMfeBK6jGMamQnzpHjRnZDynsgoCjG_Pz9pxe1vwt6hh-5BJ6h6JK_vkOqv7IqLavAjw0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 23-Oct-2028 16:21:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 25-Oct-2020 16:21:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D37737307%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Fri, 26 Oct 2018 16:51:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-2.paypal.com; expires=Fri, 26-Oct-2018 16:51:23 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1540571483~id=46407048f233dd8859269728f95a5cf6; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[10/26/2018 4:24 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=400.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=JXYD7C9C8P9BG, address_street=651 Pasir Ris Drive 10 #11-60
+Pasir Ris, payment_date=09:24:04 Oct 26, 2018 PDT, payment_status=Completed, charset=gb2312, address_zip=510651, first_name=Hidayat, mc_fee=16.10, address_country_code=SG, address_name=Hidayat Hamzah, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=AdENqUTu6328DT6nIZ4O8TxkBmCkARjX3ZQ6dFceFhYj-zLB9UOLEQBJ, payer_email=harlequinnmc@gmail.com, txn_id=70X85234C32642214, payment_type=instant, last_name=Hamzah, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Hidayat Bin Hamzah,harlequinnmc@gmail.com-(PPCDL under MCC 26 - 28 Nov (Week Days)), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, receipt_id=1811-1408-0354-9576, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=d1fc9978dc22, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg12.slc
+Paypal-Debug-Id: b48803b520ca5
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: phx-origin-www-2.paypal.com
+Date: Fri, 26 Oct 2018 16:24:22 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ODryiKvR9svsROScC6Z30eBYgAKqY4GIA9s_wENchLHAaIuNoAT4nA0FllUdZYAarlbZltho57yaDpS4ufXSRHFTOrXcNkkAepIIhJWr58gzGM0A7qEBd28dxlq-dmFCOzlC9fBsGfEuiJhNX8biH4SjWXdxMemK9rv7av_dCAHM3agmBEvkD0IT1JqQRrzE7sfRrVSru8ih2w7KWAv1bghZEkdGa0Jl2jJvvGQPsW7e1MKZtui46mbrnlcIVA-wmaKneAwCteE6nrFSqBx6BmPVUr-g6OMPlRV5Kycp2j8lpoMGTaBcwB2UHIcLnpdWJgRZDeBIkt4dhio34PW0eOiJyvkM_8vB3MWpxiMVsSJhUbC5z1gDIvz5jXbUTnMlARQ0VtpFlYDrj659rVq_4Dk7dewbvK_5Um2TsRpr6Yod1XiTYJ5AV24hto0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 23-Oct-2028 16:24:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 25-Oct-2020 16:24:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE3.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D3057636187%26HTTP_X_PP_AZ_LOCATOR%3Ddcg12.slc; Expires=Fri, 26 Oct 2018 16:54:22 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=phx-origin-www-2.paypal.com; expires=Fri, 26-Oct-2018 16:54:22 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1540571662~id=48539f9a45d99411f4ecf621cf1a2793; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
+[11/14/2018 5:58 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=400.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=EK4MVXZDKJYVJ, address_street=48 Coronation Road West
+08-02 Astrid Meadows, payment_date=21:58:09 Nov 13, 2018 PST, payment_status=Completed, charset=gb2312, address_zip=269263, first_name=Giles, mc_fee=16.10, address_country_code=SG, address_name=Holtby Giles, notify_version=3.9, custom=, payer_status=unverified, business=hilbert@mets1.sg, address_country=Singapore, address_city=, quantity=1, verify_sign=APGo2DcQOuUfN73xys957aCrBZsRAbqAgQA8retRvPPy93OKZVwKoqOy, payer_email=Gilesholtby@gmail.com, txn_id=9X266565BU682782A, payment_type=instant, last_name=Holtby, address_state=, receiver_email=hilbert@mets1.sg, payment_fee=, shipping_discount=0.00, insurance_amount=0.00, receiver_id=5RHUWTJK3E2V6, txn_type=web_accept, item_name=Giles Holtby,giles.holtby@zodiacmilpro.com-(PPCDL under MCC 26 - 28 Nov (Week Days)), discount=0.00, mc_currency=SGD, item_number=, residence_country=SG, shipping_method=Default, transaction_subject=, payment_gross=, ipn_track_id=6123c42515b4f, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+HTTP_X_PP_AZ_LOCATOR: dcg13.slc
+Paypal-Debug-Id: 693cc98e37761
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: ccg11-origin-www-1.paypal.com
+Date: Wed, 14 Nov 2018 05:58:16 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=CVsiK4hfoCLF6B-1iY-UWs0MqS1WFxDOVDrTZmK_rI4CAk47naQWhTKq3LR19Zm9fbwh4QK34Sc1dxuLzDbePj1VEVDKWl4EgpgK1NNwLC6N7uIwO3dotFSk8PkIqZ_lSue2neCUyOlePGSZyEUgJt6gs615uX3OXkK-zmSGOh0uCa5cY64ti7X-NOiRZwsZlNXK6zFcbxkpcYuGVT3cswYRlLPDsCYRLqOVOW--p_6XcNd_U8jkNX1FPX0ITAnNaE-HD_p5B0gf7GbC8IWl2rxWBc3DSaWnZaGI-gOSj4sBwzjUKtlB8gM9Vb2Nb42PSTRkdDB96J6ejkZpEY8ihCQ7DRbVmCLx-eNyHi6pjQT37AasT4hFrzwsh1U1Q_DQ3Kttd_8zwTi-Qzib2R3gcVX0jBGNRHjYBRlzn02Me5CMF6zNqltNV_3xUJy; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 11-Nov-2028 05:58:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 13-Nov-2020 05:58:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D2025450331%26HTTP_X_PP_AZ_LOCATOR%3Ddcg13.slc; Expires=Wed, 14 Nov 2018 06:28:16 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: AKDC=ccg11-origin-www-1.paypal.com; expires=Wed, 14-Nov-2018 06:28:16 GMT; path=/; secure
+Set-Cookie: akavpau_ppsd=1542175696~id=4bd04965d92b0ba655e90117c55cfc7b; Domain=www.paypal.com; Path=/; HttpOnly
+
+VERIFIED
+
