@@ -30,6 +30,7 @@ if($pg && $mode)
 else
 	include("include_page/comm/dashboard.php");	
  del_message();
+ 
 ?>
 
 
